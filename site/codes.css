@@ -1,13 +1,18 @@
 p{
-	color:yellow;
-	text-align: center;
+	color:blue;
+	
 }
 
 h1{
-	color: blue;
-	text-shadow: 20px;
+	color: yellow;
+	background: black;
+
+	
 }
+
 h3{
-	color: blue;
-	text-align: center;
-}
+	color: gold;
+	list-style: none;
+	background: black;
+	width: 200px;
+	}
