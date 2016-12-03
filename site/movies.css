@@ -1,40 +1,33 @@
-header a{
-	list-style: none;
-	color: red;
+#grey{
+	background: grey;
+	width: 300px;
+	border-bottom: 1px;
+
+}
+@media {  }
+
+#orange{
+	background-color: orange;
+}
+
+#brown{
+	background-color: brown
+}
+
+#pink {
+	background-color: pink;
+	width: 100px;
+
+}
+
+#blue{
+	background-color: green;
+	width: 300px;
+}
+
+.yellow{
 	background-color: blue;
-
-}
-a:link, a:visited {
-  text-decoration: none;
-  background-color: gold;
-  border: 2px solid blue;
-  color: black;
-  display: block;
-  width: 100px;
-  text-align: center;
-  margin-bottom: 2px;
-}
-a:hover, a:active {
-  background-color: black;
-  color: red;
-}
-span.blue{
-	color: blue;
-	background-color: gold;
-
-}
-p{
-	color: green;
-	display: block;
+	width: 100px;
 	float: right;
-}
-div h2:nth-child(3):hover{
-	background-color: blue;
-	background-size: 20px;
-	cursor: ;
-
-}
-div h2:nth-child(2){
-	float: initial;
-	padding: 10px;
+	float: 
 }
